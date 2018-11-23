@@ -1,0 +1,800 @@
+#EXTINF: -1, НАША ГРУППА 
+https://dl.dropboxusercontent.com/s/kr7smakwme8li54/vk.comiptv.schneewittchen.mp4
+
+#EXTINF:-1,TOP_Sevimli TV
+http://topchantv.net:3456/live/911TV.info/DFGjkl435347dghjeHJk/1843.m3u8
+
+#EXTINF:-1,U.HD
+http://185.243.247.57:8080/hls_get/cameraFeed.m3u8
+
+#EXTINF:0,VHS
+http://mnogo-tv.com:54378/tv/VHSTVV/index.m3u8
+
+#EXTINF:0, Krug TV
+http://v2.myowntv.org/content/35031/index.m3u8?token=3b683755ca38dceba3e078a86d87151e
+
+#EXTINF:-1,HORROR
+http://v2.myowntv.org:80/content/35026/index.m3u8
+
+#EXTINF:-1,УЖАСЫ HD
+http://autopilot.myowntv.org:80/content/35026/index.m3u8
+
+#EXTINF:-1,Pro 100 TV
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+
+#EXTINF:0,MAXVIDEO VHS
+http://188.138.75.210:5566/90-1/index.m3u8?auth=90:90
+
+#EXTINF:0,MAXVIDEO УЖАС
+http://188.138.75.210:5566/SonyHD/index.m3u8?auth=90:90
+
+#EXTINF:0,TOP Cinema HD
+http://topchantv.net:3456/live/911TV.info/DFGjkl435347dghjeHJk/1846.m3u8
+
+#EXTINF:0,TOP BUDO HD
+http://topchantv.net:3456/live/911TV.info/DFGjkl435347dghjeHJk/1845.m3u8
+
+#EXTINF:0,Bolt HD
+http://hls.sweet.tv/stream/ykkyiqfas2vpm5vsr9v2m5mx7tsvg6bmrg995vpfc8bs27cxnfui6ypquezia63jtgb3t5vwuva7in5x4c7yu3qnqzgdgjs89btnvyg4wkimvbgdq9ti5zg434b3ei2b4eukvkkmnj72dqdyi8tgn===.m3u8
+
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+
+#EXTINF:0,Варяг ТВ
+http://87.252.229.252:8081/varag
+
+#EXTINF:-1,Дом кино премиум HD
+http://88.216.48.14:80/domkinoprem/live.m3u8
+
+#EXTINF:0,Дом кино
+http://88.216.48.14:80/domkino/live.m3u8
+
+#EXTINF:0,Дом кино(Резерв)2
+http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
+
+#EXTINF:0,Дорама
+http://92.43.140.249/s95/04.m3u8
+
+#EXTINF:0,РУССКИЙ РОМАН HD
+http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8
+
+#EXTINF:-1,Кинопремьера HD
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+
+#EXTINF:-1,Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+
+#EXTINF:-1,Кино 24
+http://82.193.71.93/Kino24LV/video.m3u8
+
+#EXTINF:0,Кино меню HD
+http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+
+#EXTINF:0,КиноЗаказ 1
+https://hls.goodgame.ru/hls/114023.m3u8
+
+#EXTINF:0,Кинозал_Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+
+#EXTINF:0,Кинозал_Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+
+#EXTINF:-1,Индийское кино
+http://109.248.236.40:4433/udp/238.1.1.106:1234
+
+#EXTINF:0,Кинозал_Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+
+#EXTINF:0,Кинозал_Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+
+#EXTINF:0,Кинокомедия
+http://persik.by/stream/859/290637/10333.m3u8
+
+#EXTINF:0,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+
+#EXTINF:0,Киномикс
+http://persik.by/stream/2944/263250/10332.m3u8
+
+#EXTINF:0,Кинорейс 2
+http://hls.goodgame.ru/hls/114023.m3u8
+
+#EXTINF:0,Киносвидание
+http://persik.by/stream/2944/263250/10331.m3u8
+
+#EXTINF:0,Киносемья
+http://persik.by/stream/5773/290460/10330.m3u8
+
+#EXTINF:-1,Еврокино
+http://stream.euroasia.lfstrm.tv/eurokino/1/index.m3u8
+
+#EXTINF:-1,Киносемья
+http://109.248.236.40:4433/udp/238.1.1.52:1234
+
+#EXTINF:0,Киносерия
+http://persik.by/stream/2887/57172/10312.m3u8
+
+#EXTINF:-1,Киносвидание
+http://109.248.236.40:4433/udp/238.1.1.105:1234
+
+#EXTINF:0,Кинохит
+http://persik.by/stream/5773/290460/10327.m3u8
+
+#EXTINF:0,КИНОХИТ
+http://86.57.225.245:7015/play/a00o
+
+#EXTINF:0,1 Мистический
+http://mnogo-tv.com:54378/tv/mistika/index.m3u8
+
+#EXTINF:-1,НСТ Страшное
+http://109.248.236.41:4433/udp/238.1.1.123:1234
+
+#EXTINF:0,Fantasy TV
+http://mnogo-tv.com:54378/tv/Fantasy/index.m3u8
+
+#EXTINF:0,Семейный
+http://mnogo-tv.com:54378/tv/semeinoe/index.m3u8
+
+#EXTINF:0,Познавательное
+http://mnogo-tv.com:54378/tv/istorkino/index.m3u8
+
+#EXTINF:0,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:0,Мир HD (Premium)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:0,Мир international
+http://sc.id-tv.kz/Mir.m3u8
+
+#EXTINF:0,МИР PREMIUM
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+
+#EXTINF:0,Мир Сериала
+http://92.241.103.36:4022/udp/233.67.0.19:5510
+
+#EXTINF:-1,Мужское кино
+http://109.248.236.41:4433/udp/238.1.1.74:1234
+
+#EXTINF:-1,Мужскоекино
+http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
+
+#EXTINF:0,Наше любимое кино
+http://92.241.103.36:4022/udp/233.67.0.10:5510
+
+#EXTINF:0,Наше любимое кино
+http://185.184.233.253:5000/udp/225.1.2.163:1234
+
+#EXTINF:-1,НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+
+#EXTINF:-1,НТВсериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+
+#EXTINF:-1,SHANTPREMIUMHD
+http://hlstv.kem.211.ru/239.211.200.33/stream.m3u8
+
+#EXTINF:0,Парк Патриот HD
+http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
+
+#EXTINF:-1,Русский роман
+http://hlstv.kem.211.ru/239.211.211.31/stream.m3u8
+
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+
+#EXTINF:0,Родное Кино
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+
+#EXTINF:-1,Родное Кино
+http://86.57.225.245:7015/play/a00j
+
+#EXTINF:0,Русский Иллюзион
+http://86.57.225.245:7018/play/a003
+
+#EXTINF:-1,Русский Иллюзион
+http://hlstv.kem.211.ru/239.211.211.88/stream.m3u8
+
+#EXTINF:-1,Иллюзион+
+http://hlstv.kem.211.ru/239.211.211.89/stream.m3u8
+
+#EXTINF:0,Иллюзион +
+http://serv30.vintera.tv:8081/AXs0rHDOwAjgHAyI/illuzionplus_aa/chunklist.m3u8
+
+#EXTINF:-1,Русский бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+
+#EXTINF:-1,Sarafan
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+
+#EXTINF:-1,sony turbo
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+
+#EXTINF:-1,sony
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+
+#EXTINF:-1,Spike
+http://hlstv.kem.211.ru/239.211.211.149/stream.m3u8
+
+#EXTINF:0,Русский Север
+http://176.107.213.20:9000/play/a001
+
+#EXTINF:0,ТВ-3
+http://46.32.64.42/s/live/12/86.169.51.136/1/0.m3u8
+
+#EXTINF:-1,Teatr
+http://hlstv.kem.211.ru/239.211.211.110/stream.m3u8
+
+#EXTINF:-1,Теленовелла
+http://109.248.236.41:4433/udp/238.1.1.128:1234
+
+#EXTINF:-1,Akudji Tv
+http://hls.goodgame.ru/hls/5346.m3u8
+
+#EXTINF:0,А1 HD
+http://109.248.236.41:4433/udp/238.1.1.97:1234
+
+#EXTINF:-1,A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+
+#EXTINF:0,А1 Смотри один
+http://persik.by/stream/2746/289069/257.m3u8
+
+#EXTINF:-1,A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+
+#EXTINF:-1,amedia premium
+http://stream.euroasia.lfstrm.tv/amedia_premium_hd/1/index.m3u8
+
+#EXTINF:0,AMC
+http://5.59.216.131:81/udp/239.72.6.197:1234
+
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/04.m3u8
+
+#EXTINF:0,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+
+#EXTINF:0,A1
+http://ott-cdn.ucom.am/s45/index.m3u8
+
+#EXTINF:0,Amedia Hit
+http://persik.by/stream/859/290637/895.m3u8
+
+#EXTINF:0,Amedia Hit HD
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+
+#EXTINF:0,Amedia Premium
+http://persik.by/stream/2887/57172/643.m3u8
+
+#EXTINF:0,Amedia_Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+
+#EXTINF:0,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+
+#EXTINF:-1,Bollywood HD
+http://830a5f58.ottv.biz/iptv/Y47CBW6AEW7296/915/239/index.m3u8
+
+#EXTINF:0,Box Cinema HD
+http://hls.goodgame.ru/hls/120729.m3u8
+
+#EXTINF:-1,Docent 13
+https://hls.goodgame.ru/hls/64556.m3u8
+
+#EXTINF:0,Epic Drama HD(Резерв)
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1048/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,FilMax HD
+http://hls.goodgame.ru/hls/152833.m3u8
+
+#EXTINF:-1,Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+
+#EXTINF:-1,Filmbox Action
+http://hls.redefine.pl/478676E7/11313/0/hls576/576p/list.m3u8
+
+#EXTINF:-1,Fox
+http://hlstv.kem.211.ru/239.211.211.91/stream.m3u8
+
+#EXTINF:-1,FOXHDRussia
+http://hlstv.kem.211.ru/239.211.200.17/stream.m3u8
+
+#EXTINF:0,Fox HD
+http://87.248.230.25:81/udp/239.239.5.12:5239
+
+#EXTINF:-1,FOX  LIFE HDRussia
+http://hlstv.kem.211.ru/239.211.200.18/stream.m3u8
+
+#EXTINF:0,Fox Life HD
+http://87.248.230.25:81/udp/239.239.5.11:5239
+
+#EXTINF:0,78 HD
+http://78.gcdn.co/streams/877_13/1080n/index.m3u8
+
+#EXTINF:0,8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+
+#EXTINF:0,8 Канал (Беларусь)
+http://91.215.176.238:8000/8channel
+
+#EXTINF:0,8 Канал (Европа)
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+
+#EXTINF:0,8 Канал (Красноярск)
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+
+#EXTINF:0,8 Канал (Новосибирск)
+http://8knsk.cdnvideo.ru/8knsk-mpegts/stream1/playlist.m3u8
+
+#EXTINF:0,86 канал (Сургут)
+https://t.sitv.ru/hls/s861024.m3u8
+
+#EXTINF:0,Amedia 1
+http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
+
+#EXTINF:0,Amedia 1 HD
+http://109.248.236.40:4433/udp/238.1.1.97:1234
+
+#EXTINF:0,Amedia 2
+http://stream.euroasia.lfstrm.tv/amedia_2/1/index.m3u8
+
+#EXTINF:0,Amedia Premium HD
+http://109.248.236.40:4433/udp/238.1.1.71:1234
+
+#EXTINF:0,Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+
+#EXTINF:0,Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+
+#EXTINF:0,Дом Кино Премиум HD
+http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
+
+#EXTINF:0,Дон 24 /HD
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v1a1/index.m3u8
+
+#EXTINF:0,ЗВЕЗДА  /HD
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+
+#EXTINF:0,КИНО 90-х ч.4. Деревня Дураков
+http://188.138.75.210:5566/4/index.m3u8?auth=90:90
+
+#EXTINF:0,КРЫМ 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/tracks-v1a1/index.m3u8
+
+#EXTINF:0,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:0,НТВ Moldova
+http://93.115.137.166/hls/ntvm.m3u8
+
+#EXTINF:0,НТВ Мир
+http://109.248.236.40:4433/udp/238.1.1.56:1234
+
+#EXTINF:0,НТС (Севастополь)
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+
+#EXTINF:0,Новороссия
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+
+#EXTINF:0, Антимайдан.
+http://hls.goodgame.ru/hls/6147.m3u8
+
+#EXTINF:0, Naroddip.
+http://hls.goodgame.ru/hls/33226.m3u8
+
+#EXTINF:0, Дядя Ваня.
+http://hls.goodgame.ru/hls/54105.m3u8
+
+#EXTINF:0,BOLLYWOOD HD
+http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+
+#EXTINF:0,BTV.INTERNACIONAL
+http://hlsvoyo.voyo.bg.sof.cmestatic.com/61183589/livestream-0/playlist.m3u8?eyJtZWQiOjYxMTgzNTg5LCJsaWMiOiJiZmU5M2UxNGUxY2U5MTlkZWUxZDExNzcwMGVjNzRkYyIs%0AImRldiI6IkxFTk9WT19MZW5vdm9BMzUwMC1GTF9lMjE5ODkwODZlMGE1YmJhN2FjMzliNjVlMTY0%0AM2E5MF83YjVjYTY1My05NzI0LTQ5NDgtOTcyNy1jNmQzODYzY2YwYjMiLCJwcm9kIjoyNDE5OH0%3D%0A
+
+#EXTINF:0,BigBuckBunny HD
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+
+#EXTINF:0,HTM HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:0,INTER
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+
+#EXTINF:0,360°
+http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
+
+#EXTINF:0,Ужасы
+http://autopilot.myowntv.org/content/35026/index.m3u8?vk.com/iptv_iptv
+
+#EXTINF:0,http://109.248.236.41:4433/udp/238.1.1.42:1234
+http://ott-cdn.ucom.am/s66/01.m3u8
+
+#EXTINF:0,Мамонтенок HD
+http://82.193.71.93/MamontLV/video.m3u8
+
+#EXTINF:-1,KIDS CO
+http://autopilot.myowntv.org/content/34336/index.m3u8
+
+#EXTINF:-1,MGM HD
+http://830a5f58.ottv.biz/iptv/Y47CBW6AEW7296/915/209/index.m3u8
+
+#EXTINF:-1,Paramount Channel
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+
+#EXTINF:0,Paramount Comedy
+http://134.90.183.97:81/udp/239.255.42.16:1234
+
+#EXTINF:-1,PYRAMIDA
+http://stream.onlinetv.kg/Streaming/HLSAndroid/19/121/af2812cb630f4906adfd06a5c6885225/stream.m3u8
+
+#EXTINF:0,RTVi
+http://stream.euroasia.lfstrm.tv/rtvi/1/index.m3u8
+
+#EXTINF:-1,Star Cinema
+http://78.159.32.6:8089
+
+#EXTINF:-1,Star Family
+http://78.159.32.6:8090
+
+#EXTINF:0,Sony Sci-Fi
+http://stream.euroasia.lfstrm.tv/sony_sci-fi/1/index.m3u8
+
+#EXTINF:-1,STR TV
+http://hls.goodgame.ru/hls/130048.m3u8
+
+#EXTINF:0,Sony Sci-Fi
+http://176.125.87.227:4022/udp/233.12.144.17:5050
+
+#EXTINF:0,TOP 80
+http://topchantv.net:3456/live/911TV.info/DFGjkl435347dghjeHJk/1844.m3u8
+
+#EXTINF:0,TV Plus
+http://62.64.92.118:8000/002
+
+#EXTINF:0,TV XXI
+http://fb99d345.iptvspy.ru/iptv/QRYWV4C2X69MKQ/525/index.m3u8
+
+#EXTINF:-1,TV XXI
+http://88.216.48.14:80/xxi/live.m3u8
+
+#EXTINF:0,TV 1000
+http://ott-cdn.ucom.am/s90/index.m3u8
+
+#EXTINF:0,TV 1000
+http://46.241.79.183:81/udp/239.54.5.91:1234
+
+#EXTINF:0,TV 1000
+http://ott-cdn.ucom.am/s90/04.m3u8
+
+#EXTINF:0,TV1000
+http://stream.euroasia.lfstrm.tv/tv1000/1/index.m3u8
+
+#EXTINF:0,TV 1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+
+#EXTINF:0,TV 1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+
+#EXTINF:0,TV 1000 Russkoe Kino
+http://46.241.79.183:81/udp/239.54.5.112:1234
+
+#EXTINF:0,TV 1000 Русское кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+#EXTINF:0,TV 1000 Русское кино
+http://ott-cdn.ucom.am/s95/04.m3u8
+
+#EXTINF:0,Viasat TV3 PLUS
+http://217.145.218.30:8406/ch406
+
+#EXTINF:0,Zee-TV
+http://109.248.236.41:4433/udp/238.1.1.31:1234
+
+#EXTINF:0,Zee-TV(Резерв)2
+http://185.184.233.253:5000/udp/225.1.2.159:1234
+
+#EXTINF:0,Zee-TV(Резерв)3
+http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
+
+#EXTINF:0,Париж. Город Zомби  (2018)
+http://hls.kinoplayer.co/hls/The.Night.Eats.the.World.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Русалка. Озеро мёртвых  (2018)
+http://hls.kinoplayer.co/hls/Ozero.Mertvyh.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Апгрейд  (2018)
+http://hls.kinoplayer.co/hls/Upgrade.2018.Pk.HDRip/playlist.m3u8
+
+#EXTINF:0,Наследие охотника на белохвостого оленя  (2018)
+http://hls.kinoplayer.co/hls/The.Legacy.of.a.Whitetail.Deer.Hunter.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,10 на 10  (2018)
+http://hls.kinoplayer.co/hls/10x10.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Смертельная гонка 4: Вне анархии  (2018)
+http://hls.kinoplayer.co/hls/Death.Race.4.Beyond.Anarchy.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Король Лир  (2018)
+http://hls.kinoplayer.co/hls/King.Lear.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Парману: История Похрана  (2018)
+http://hls.kinoplayer.co/hls/Parmanu.The_Story_of_Pokhran_2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Операция в Красном море  (2018)
+http://hls.kinoplayer.co/hls/Operation.Red.Sea.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Погоня за любовью  (2018)
+http://hls.kinoplayer.co/hls/Social_Animals.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Земля: Один потрясающий день  (2018)
+http://hls.kinoplayer.co/hls/Earth.One.Amazing.Day.2017.BDRip/playlist.m3u8
+
+#EXTINF:0,Зои  (2018)
+http://hls.kinoplayer.co/hls/Zoe.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Клуб любителей книг и пирогов из картофельных очистков  (2018)
+http://hls.kinoplayer.co/hls/klub-lyubiteley-knig-i-pirogov-iz-kartofelnyh-ochistkov-2018HDRip/playlist.m3u8
+
+#EXTINF:0,Как это заканчивается  (2018)
+http://hls.kinoplayer.co/hls/HowItEnds.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Первая реформатская церковь  (2017)
+http://hls.kinoplayer.co/hls/First.Reformed.2018.Pa.HDRip/playlist.m3u8
+
+#EXTINF:0,Закат цивилизации  (2018)
+http://hls.kinoplayer.co/hls/Extinction.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Отец года  (2018)
+http://hls.kinoplayer.co/hls/Father.of.the.Year.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Дыши во мгле  (2018)
+http://hls.kinoplayer.co/hls/Dans.La.Brume.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,План побега 2  (2018)
+http://hls.kinoplayer.co/hls/Escape.Plan.2.Hades.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Такси-5  (2018)
+http://hls.kinoplayer.co/hls/Taxi.5.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,В поисках йети  (2018)
+http://hls.kinoplayer.co/hls/V.PoiSKaX.YETTy.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Ты водишь!  (2018)
+http://hls.kinoplayer.co/hls/Tag.2018.Dt.HDRip/playlist.m3u8
+
+#EXTINF:0,Клуб миллиардеров  (2018)
+http://hls.kinoplayer.co/hls/Billionaire.Boys.Club.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Небоскрёб  (2018)
+http://hls.kinoplayer.co/hls/Skyscraper.2018.Dt.HDRip/playlist.m3u8
+
+#EXTINF:0,Суперполицейские 2  (2018)
+http://hls.kinoplayer.co/hls/Super.Troopers.2.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Банды Лос-Анджелеса  (2018)
+http://hls.kinoplayer.co/hls/King.2O17.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Псы под прикрытием  (2018)
+http://hls.kinoplayer.co/hls/SoBaKi.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Истории призраков  (2018)
+http://hls.kinoplayer.co/hls/Ghost.Stories.2017.HDRip/playlist.m3u8
+
+#EXTINF:0,Это чёртово сердце  (2018)
+http://hls.kinoplayer.co/hls/Dieses.bescheuerte.Herz.2017.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Паранормальное  (2018)
+http://hls.kinoplayer.co/hls/The.Endless.2017.BDRip/playlist.m3u8
+
+#EXTINF:0,Шпионская игра  (2018)
+http://hls.kinoplayer.co/hls/SHpiONSkiY.LoVeTS.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Жаркие летние ночи  (2018)
+http://hls.kinoplayer.co/hls/Hot.Summer.Nights.2017.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Логово Монстра  (2018)
+http://hls.kinoplayer.co/hls/Bad.Samaritan.2018.HDrip/playlist.m3u8
+
+#EXTINF:0,Гонка века  (2018)
+http://hls.kinoplayer.co/hls/The.Mercy.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Кодекс Готти  (2018)
+http://hls.kinoplayer.co/hls/KoDeKs.GaTTi.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Хотдог  (2018)
+http://hls.kinoplayer.co/hls/Hot.Dog.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Ночная смена  (2018)
+http://hls.kinoplayer.co/hls/Nochnaja.Smena.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Пылающий  (2018)
+http://hls.kinoplayer.co/hls/Beoning.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Мстители: Война бесконечности  (2018)
+http://hls.kinoplayer.co/hls/Avengers.Infinity.War.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Мектуб, моя любовь  (2018)
+http://hls.kinoplayer.co/hls/Mektoub.My.Love.Canto.Uno.2O18.Pof.HDRip/playlist.m3u8
+
+#EXTINF:0,Как разговаривать с девушками на вечеринках  (2018)
+http://hls.kinoplayer.co/hls/How.to.Talk.to.Girls.at.Parties.2017.HDRip/playlist.m3u8
+
+#EXTINF:0,Попробуй подкати  (2018)
+http://hls.kinoplayer.co/hls/Tout.le.monde.debout.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Решение о ликвидации  (2018)
+http://hls.kinoplayer.co/hls/reshenie-o-likvidacii-2018hdrip/playlist.m3u8
+
+#EXTINF:0,Шерлок Гномс  (2018)
+http://hls.kinoplayer.co/hls/Sherlock.Gnomes.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Калибр  (2018)
+http://hls.kinoplayer.co/hls/Calibre.2018.NF.HDRip/playlist.m3u8
+
+#EXTINF:0,Местные  (2018)
+http://hls.kinoplayer.co/hls/The.Domestics.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Ноябрь  (2017)
+http://hls.kinoplayer.co/hls/November.2017.P.HDRip/playlist.m3u8
+
+#EXTINF:0,102 года – не предел  (2018)
+http://hls.kinoplayer.co/hls/102.Not.Out.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Бенджи  (2018)
+http://hls.kinoplayer.co/hls/Benji.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Коллектор  (2018)
+http://hls.kinoplayer.co/hls/The.Debt.Collector.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Цирк уродов  (2017)
+http://hls.kinoplayer.co/hls/Freak.Show.2017.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Чистокровные  (2017)
+http://hls.kinoplayer.co/hls/Thoroughbreds.2O17.Pof.HDRip/playlist.m3u8
+
+#EXTINF:0,Голем (2017)
+http://mn.kinoplayer.co/hls/The.Limehouse.Golem.2016.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Kingsman: Золотое кольцо (2017)
+http://hls.kinoplayer.co/hls/Kingsman.The.Golden.Circle.2017.BDRip/playlist.m3u8
+
+#EXTINF:0,ЛЕГО Ниндзяго Фильм (2017)
+http://hls.kinoplayer.co/hls/The.Lego.Ninjago.Movie.2017.BDRip/playlist.m3u8
+
+#EXTINF:0,Черновик  (2018)
+http://hls.kinoplayer.co/hls/Chernovik.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Дэдпул 2  (2018)
+http://hls.kinoplayer.co/hls/DeAdPaLL.2.2O18.D.HD/playlist.m3u8
+
+#EXTINF:0,Лето  (2018)
+http://hls.kinoplayer.co/hls/Leto2018hdrip/playlist.m3u8
+
+#EXTINF:0,Мир Юрского периода 2  (2018)
+http://hls.kinoplayer.co/hls/DnaZaWRy.II.2O18.Dt.HDRip/playlist.m3u8
+
+#EXTINF:0,Невидимка  (2018)
+http://hls.kinoplayer.co/hls/In.Darkness.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Инсомния  (2018)
+http://hls.kinoplayer.co/hls/1HC0mH1ya.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Подстава  (2018)
+http://hls.kinoplayer.co/hls/Set.It.Up.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Астро  (2018)
+http://hls.kinoplayer.co/hls/Astro.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Красотка на всю голову  (2018)
+http://hls.kinoplayer.co/hls/Krasotka.Na.Vsju.Golovu.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Утка, утка, гусь/Папа-мама гусь  (2018)
+http://hls.kinoplayer.co/hls/Duck.Duck.Goose.2018HDrip/playlist.m3u8
+
+#EXTINF:0,Почему он? (2017)
+http://mn.kinoplayer.co/hls/Pochemu.On.2016.HDRip/playlist.m3u8
+
+#EXTINF:0,В поисках праздника  (2017)
+http://hls.kinoplayer.co/hls/The.Leisure.Seeker.2017.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Талли  (2018)
+http://hls.kinoplayer.co/hls/Tully.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Тау  (2018)
+http://hls.kinoplayer.co/hls/Тау_2018_HDRip/playlist.m3u8
+
+#EXTINF:0,Идеальный дом  (2018)
+http://hls.kinoplayer.co/hls/Ideal.Home.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Прощаться не будем   (2018)
+http://hls.kinoplayer.co/hls/ProshchatsyaNeBudem.2O18.O.HDRip/playlist.m3u8
+
+#EXTINF:0,Не в себе  (2018)
+http://hls.kinoplayer.co/hls/Unsane.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Сага о чудовище (2018)
+http://hls.kinoplayer.co/hls/Wildling.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Секса не будет!!!  (2018)
+http://hls.kinoplayer.co/hls/Blockers.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Большая афера в маленьком городе  (2018)
+http://hls.kinoplayer.co/hls/APF.2018.Pt.BDRip/playlist.m3u8
+
+#EXTINF:0,Аферисты поневоле (2018)
+http://hls.kinoplayer.co/hls/The.con.is.on_2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Фото на память  (2018)
+http://hls.kinoplayer.co/hls/FotoNaPamyatAVI/playlist.m3u8
+
+#EXTINF:0,Мир будущего  (2018)
+http://hls.kinoplayer.co/hls/Future.World.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Фокстрот  (2018)
+http://hls.kinoplayer.co/hls/Foxtrot.2017.HDRip/playlist.m3u8
+
+#EXTINF:0,За бортом  (2018)
+http://hls.kinoplayer.co/hls/Overboard.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Призраки Исмаэля (2017)
+http://hls.kinoplayer.co/hls/prizraki-ismaelya.2017.BDRip/playlist.m3u8
+
+#EXTINF:0,Мария Магдалина  (2018)
+http://hls.kinoplayer.co/hls/Mary-Magdalene.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Тихое место (2018)
+http://hls.kinoplayer.co/hls/A.Quiet.Place.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Билал  (2018)
+http://hls.kinoplayer.co/hls/bilal-a-new-breed-of-hero.2018.Pk.HDRip/playlist.m3u8
+
+#EXTINF:0,Дом призраков (2017)
+http://hls.kinoplayer.co/hls/Ghost.House.2017HDRip/playlist.m3u8
+
+#EXTINF:0,Садко  (2018)
+http://hls.kinoplayer.co/hls/sadko_2017_HDRip/playlist.m3u8
+
+#EXTINF:0,Третье убийство  (2018)
+http://hls.kinoplayer.co/hls/trete-ubiystvo2017HDrip/playlist.m3u8
+
+#EXTINF:0,Эскобар /Любить Пабло  (2018)
+http://hls.kinoplayer.co/hls/Loving.Pablo.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Ева  (2018)
+http://hls.kinoplayer.co/hls/Eva.2018.HDRip/playlist.m3u8
+
+#EXTINF:0,Командир Полярной звезды/ Первые  (2018)
+http://hls.kinoplayer.co/hls/Pervye.2017.HDRip/playlist.m3u8
+
+#EXTINF:0,Траффик  (2018)
+http://hls.kinoplayer.co/hls/Traffik.2018.Pk.HDRip/playlist.m3u8
+
+#EXTINF:0,Настоящее преступление  (2016)
+http://hls.kinoplayer.co/hls/CrimEs.2O18.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Великолепная  (2018)
+http://hls.kinoplayer.co/hls/Velikolepnaya.2018.D.HDRip/playlist.m3u8
+
+#EXTINF:0,Фургон смерти  (2018)
+http://hls.kinoplayer.co/hls/TheToybox.2018_HDrip/playlist.m3u8
+
+#EXTINF:0,12-й человек  (2018)
+http://hls.kinoplayer.co/hls/Den.12.Mann.2O18.P.HDRip/playlist.m3u8
+
+#EXTINF:0,На грани безумия  (2018)
+http://hls.kinoplayer.co/hls/Spinning.Man.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Украденная принцесса: Руслан и Людмила  (2018)
+http://hls.kinoplayer.co/hls/The.Stolen.Princess.2018.P.HDRip/playlist.m3u8
+
+#EXTINF:0,Код 211  (2018)
+http://hls.kinoplayer.co/hls/211.2018.MVO.HDRip/playlist.m3u8
+
+#EXTINF:0,Раздражительность  (2018)
+http://hls.kinoplayer.co/hls/Acrimony.2018.BDRip/playlist.m3u8
+
+#EXTINF:0,Пусть трупы позагорают  (2017)
+http://hls.kinoplayer.co/hls/Laissez.bronzer.les.cadavres.2018.Pk.HDRip/playlist.m3u8
