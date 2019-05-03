@@ -1,3 +1,67 @@
 #EXTM3U
-#EXTINF:-1,Brodilo TV
-http://brodilo.tv/channel.php
+#EXTINF:-1,DMAX HD
+https://streams.livetv.az/turk/dmax_stream/playlist.m3u8
+#EXTINF:-1,Bloomberg HD
+https://streams.livetv.az/turk/bloomberg_stream/playlist.m3u8
+#EXTINF:-1,Teve2 HD
+https://streams.livetv.az/turk/tv2_stream/playlist.m3u8
+#EXTINF:-1,Fox HD
+https://streams.livetv.az/turk/fox_stream/playlist.m3u8
+#EXTINF:-1,NTV Turk HD
+https://streams.livetv.az/turk/ntv_stream/playlist.m3u8
+#EXTINF:-1,Kanal 7 HD
+https://streams.livetv.az/turk/kanal7_stream/playlist.m3u8
+#EXTINF:-1,A2
+https://streams.livetv.az/turk/a2_stream/playlist.m3u8
+#EXTINF:-1,Dalga
+https://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1,ARB24
+https://streams.livetv.az/azerbaijan/24/playlist.m3u8
+#EXTINF:-1,ARB Gunes
+https://streams.livetv.az/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1,ARB Ulduz
+https://streams.livetv.az/azerbaijan/ulduz/playlist.m3u8
+#EXTINF:-1,Real TV
+https://streams.livetv.az/azerbaijan/real/playlist.m3u8
+#EXTINF:-1,Qafqaz TV
+https://streams.livetv.az/external/qafqaztv/playlist.m3u8
+#EXTINF:-1,Azad Azerbaycan HD
+https://streams.livetv.az/azerbaijan/atvhd_stream/playlist.m3u8
+#EXTINF:-1,Dunya
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1,Ictimai HD
+https://streams.livetv.az/azerbaijan/ictimaihd/playlist.m3u8
+#EXTINF:-1,Inter Az HD
+https://streams.livetv.az/azerbaijan/interaz/playlist.m3u8
+#EXTINF:-1,AZTV HD
+https://streams.livetv.az/azerbaijan/aztvhd/playlist.m3u8
+#EXTINF:-1,ARB
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1,TVCity AZ
+https://streams.livetv.az/azerbaijan/tvcity/playlist.m3u8
+#EXTINF:-1,Ruslana TV
+https://streams.livetv.az/azerbaijan/ruslana/playlist.m3u8
+#EXTINF:-1,TRT COCUK
+https://streams.livetv.az/turk/trt_cocuk_stream/playlist.m3u8
+#EXTINF:-1,A Spor
+https://streams.livetv.az/turk/aspor_stream/playlist.m3u8
+#EXTINF:-1,A Haber
+https://streams.livetv.az/turk/ahaber_stream/playlist.m3u8
+#EXTINF:-1,CNN Tr
+https://streams.livetv.az/turk/cnn_stream/playlist.m3u8
+#EXTINF:-1, TRT 1
+https://streams.livetv.az/turk/trt1_stream/playlist.m3u8
+#EXTINF:-1,TRT Spor
+https://streams.livetv.az/turk/trt_spor_stream/playlist.m3u8
+#EXTINF:-1,Kral Pop TV
+https://streams.livetv.az/turk/kral_stream/playlist.m3u8
+#EXTINF:-1,Power TV HD
+https://streams.livetv.az/turk/power_stream/playlist.m3u8
+#EXTINF:-1,Minika Cocuk
+https://streams.livetv.az/turk/minika_stream/playlist.m3u8
+#EXTINF:-1,TRT BELGESEL
+https://streams.livetv.az/turk/trt_belgesel_stream/playlist.m3u8
+#EXTINF:-1,HABER TURK
+https://streams.livetv.az/turk/haber_stream/playlist.m3u8
+#EXTINF:-1,BS TV
+https://streams.livetv.az/turk/dream_stream/playlist.m3u8
